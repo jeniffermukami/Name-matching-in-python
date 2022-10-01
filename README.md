@@ -1,4 +1,5 @@
 # Name-matching-in-python
+![names_matching](https://media.datadriveninvestor.com/uploads/2020/12/1_z2qAHihbBYZgvFR5dk00gg-1-1536x1152.jpeg)
 
 When using data, most people agree that your insights and analysis are only as good as the data you are using.
 Essentially, garbage data in is garbage analysis out. Data cleaning, also referred to as data cleansing and data scrubbing, is one of the most important steps for your organization if you want 
